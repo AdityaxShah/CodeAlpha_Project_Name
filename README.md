@@ -13,6 +13,7 @@ Beginner-friendly and easy to understand.
 🧠 How It Works
 The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, starting from 0 and 1.
 The generator function fibonacci_generator(x) yields one number at a time without storing the entire sequence in memory, making it suitable for large values of limit.
+
 📘 Concepts Used :
                              
                                  1.Generator Functions (yield).
@@ -22,6 +23,7 @@ The generator function fibonacci_generator(x) yields one number at a time withou
                                  3.Input/Output
                             
                                  4.String Manipulation
+
 
 🌟 Ideal For :
                      

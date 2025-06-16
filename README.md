@@ -1,1 +1,1 @@
-Update #6 to README.md in CodeAlpha_Project_Name
+Update #7 to README.md in CodeAlpha_Project_Name
